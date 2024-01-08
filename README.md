@@ -130,7 +130,7 @@ INLINE HTML
 
 
 __________________
-#STOP - The Rest is just notes... 
+# STOP - The Rest IS JUST NOTES
 
 # H1
 ## H2
