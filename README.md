@@ -1,11 +1,11 @@
-# ABOUT ME
+# **ABOUT ME**
 #### Hi, I'm **Alex Meleshko**.  As an engineer, I provide unique and compelling research on investments in technology and the energy transition/renewables. I grew up in Western Canada, but fled the ice-capped Rocky Mountains for the warm, sunny Carolina coast where I reside with my wife and pitbull. To provide a sense of contrast, while I will write about my adventures in business and entrepreneurship, I am passionate about sharing raw insights on modern-day philosophy of sex, love, life and death. 
 
-# ALEX MELESHKO | Equity Research Analyst CV
+# **ALEX MELESHKO | Equity Research Analyst CV**
 #### 720.717.9959 | alex.meleshko1@gmail.com | linkedin.com/in/alex-meleshko/ | MAKE A WEBSITE!
 #### Equity Research Analyst with engineering background covering renewables/energy transition and technology. 
 
-## EXPERIENCE
+## **EXPERIENCE**
 ### Lium Research								            Charlotte, North Carolina
 ### Associate Analyst | Equity Research					                            JAN ‘24-Present
 #### • Data-driven investment research and market insights for energy transition and renewables. 
@@ -43,11 +43,11 @@ Most interesting topics…
 #### Leading global technology company in hardware/software for drilling rigs, solar PV and energy storage.
 #### • Generated key performance indicators (KPIs) via analytics tools to advise 40+ client project managers. 
 
-## EDUCATION
+## **EDUCATION**
 #### BS Petroleum Engineering Montana Technological University				Highest Honors
 #### BSc Geophysics (Geophysical Engineering) University of Calgary
 
-## OTHER
+## **OTHER**
 #### Harvard Business School , NIBC
 #### Society of Petroleum Engineers MT Tech Chapter; Led Adopt-a-Highway, Blood Drive, and industry golf.
 #### YouTube Silver Play Button Award, 100K Subscribers
