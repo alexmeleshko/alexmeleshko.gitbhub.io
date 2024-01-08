@@ -2,7 +2,7 @@ html,
 body,
 app-root,
 .app-frame {
-  font-family: "Comic Sans MS";
+  font-family: "Roboto";
 }
 
 # H1
