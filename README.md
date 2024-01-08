@@ -1,9 +1,4 @@
-html,
-body,
-app-root,
-.app-frame {
-  font-family: "Roboto";
-}
+
 
 # H1
 ## H2
@@ -12,13 +7,11 @@ app-root,
 ##### H5
 ###### H6
 
-Alternatively, for H1 and H2, an underline-ish style:
+# ABOUT ME
+#### Hi, I'm **Alex Meleshko**.  As an engineer, I provide unique and compelling research on investments in technology and the energy transition/renewables. I grew up in Western Canada, but fled the Rocky Mountains and artic tundra for the warm, sunny Carolina coast where I reside with my wife and pitbull. 
 
-Alt-H1
-======
+To provide a sense of contrast, while I will write about my adventures in business and entrepreneurship, I am passionate about sharing raw insights on modern-day philosophy of sex, love, life and death. 
 
-Alt-H2
-------
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
