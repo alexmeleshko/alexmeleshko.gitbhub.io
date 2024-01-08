@@ -1,5 +1,5 @@
 # ABOUT ME
-#### Hi, I'm **Alex Meleshko**.  As an engineer, I provide unique and compelling research on investments in technology and the energy transition/renewables. I grew up in Western Canada, but fled the Rocky Mountains and artic tundra for the warm, sunny Carolina coast where I reside with my wife and pitbull. To provide a sense of contrast, while I will write about my adventures in business and entrepreneurship, I am passionate about sharing raw insights on modern-day philosophy of sex, love, life and death. 
+#### Hi, I'm **Alex Meleshko**.  As an engineer, I provide unique and compelling research on investments in technology and the energy transition/renewables. I grew up in Western Canada, but fled the ice-capped Rocky Mountains for the warm, sunny Carolina coast where I reside with my wife and pitbull. To provide a sense of contrast, while I will write about my adventures in business and entrepreneurship, I am passionate about sharing raw insights on modern-day philosophy of sex, love, life and death. 
 
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
