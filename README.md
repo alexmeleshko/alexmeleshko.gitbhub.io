@@ -1,3 +1,10 @@
+html,
+body,
+app-root,
+.app-frame {
+  font-family: "Comic Sans MS";
+}
+
 # H1
 ## H2
 ### H3
